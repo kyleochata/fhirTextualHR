@@ -8,6 +8,7 @@ dependencies = [
     "fhir-resources>=8.2.0",
     "fhirpathpy>=2.2.0",
     "pydantic>=2.13.4",
+    "python-dotenv>=1.2.2",
     "requests>=2.34.2",
     "textual>=8.2.6",
     "textual-dev>=1.8.0",
